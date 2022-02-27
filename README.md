@@ -1,2 +1,2 @@
 # CalorieCalculator
-Calculates calories give workout time and intensity. Uses Java.
+Calculates calories given workout time and intensity. Uses Java.
